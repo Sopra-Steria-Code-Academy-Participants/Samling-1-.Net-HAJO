@@ -19,4 +19,8 @@
     <Folder Include="Terraform\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Content Include=".github\workflows\SonarCloud.yml" />
+  </ItemGroup>
+
 </Project>
